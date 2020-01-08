@@ -1,3 +1,7 @@
 [DEFAULT]
-TOKEN=
-SERVER=
+TOKEN=<YOUR_DICORD_TOKEN>
+SERVER=<YOUR_DISCORD_SERVER_NAME>
+
+[WEATHER]
+BASE=api.openweathermap.org/data/2.5/weather?q=
+API_KEY=
